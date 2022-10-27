@@ -1,2 +1,2 @@
 # My_cv-
-ysing this create your cv in easy way 
+using this create your cv in easy way 
