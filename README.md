@@ -16,7 +16,7 @@ Add the Line using Html tags
   </br><h2>  copy this code </h2>
 
  <br> "         "</br>
-<textarea><br><html>
+<br><textarea><html>
 <head><title>My CV </title></head>
 <body bgcolor="white">
 <h1><b> Muhammad Adeel </b></h1>
@@ -89,7 +89,7 @@ types of situations and circumstances.
 <h2 style="color:blue;">REFERENCE:</h2>
                                 Will be provided on demand
 </body>
-</html>"</br></textarea>
+</html></textarea></br>
 
 
 <head><title>My CV </title></head>
